@@ -1,1 +1,3 @@
-Repositório dedicado para anotações e guias referentes aos serviços AWS
+Dedicated repository for notes and topics regarding AWS services
+
+-----
