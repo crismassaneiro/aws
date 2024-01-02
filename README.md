@@ -6,14 +6,17 @@ I partitioned this repository into modules for each certification, for example:
 
 <br>FOUNDATIONAL
 <br> - Cloud Practitioner
+
 <br>PROFESSIONAL
 <br> - Solutions Architect
 <br> - DevOps Engineer
+
 <br>ASSOCIATE
 <br> - SysOps Administrator
 <br> - Developer
 <br> - Solution Architect
 <br> - Data Engineer
+
 <br>SPECIALTY
 <br> - Advanced Networking
 <br> - Database
