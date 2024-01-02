@@ -26,3 +26,5 @@ I partitioned this repository into modules for each certification, for example:
 <br> - Data Analytics
 
 obs: note that this list may be subject to deprecation as AWS certifications undergo regular updates and changes.
+![Alt text](image.png)
+![Alt text](image-1.png)
