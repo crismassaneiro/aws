@@ -28,3 +28,5 @@ I partitioned this repository into modules for each certification, for example:
 obs: note that this list may be subject to deprecation as AWS certifications undergo regular updates and changes.
 ![Alt text](image.png)
 ![Alt text](image-1.png)
+
+AWS Certifications: https://aws.amazon.com/certification/?gclid=CjwKCAiA4smsBhAEEiwAO6DEjZjpVEbX8xEqcdBmST5mXzlRwCkm2g-ap9xtDlhFKvDRWAFafsVyUBoCWZEQAvD_BwE&trk=0c2b5279-1e50-459b-b9b5-6b0861ac160e&sc_channel=ps&ef_id=CjwKCAiA4smsBhAEEiwAO6DEjZjpVEbX8xEqcdBmST5mXzlRwCkm2g-ap9xtDlhFKvDRWAFafsVyUBoCWZEQAvD_BwE:G:s&s_kwcid=AL!4422!3!653411797890!e!!g!!aws%20certifications!19919601960!149404862324
